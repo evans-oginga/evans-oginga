@@ -5,7 +5,7 @@
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="your-hashnode-URL">
+  <a href="https://oginga.hashnode.dev/">
     <img src="https://img.shields.io/badge/hashnode-blog-brightgreen?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/>
   </a>
   <a href="your-twitter-URL">
