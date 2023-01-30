@@ -8,7 +8,7 @@
   <a href="https://oginga.hashnode.dev/">
     <img src="https://img.shields.io/badge/hashnode-blog-brightgreen?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode Badge"/>
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://twitter.com/ogingapad">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   </div>  
