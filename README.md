@@ -68,3 +68,8 @@ I am a results-driven software engineer <img src="https://media.giphy.com/media/
 <!-- BLOG-POST-LIST:END -->
 
 
+<!-- Markdown -->
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
+
